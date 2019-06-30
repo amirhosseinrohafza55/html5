@@ -1,0 +1,48 @@
+*{
+    direction: rtl;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+div.button{
+    position: absolute;
+    left: 20px;
+}
+h2{
+    margin-top:25px; 
+    text-align: center;
+}
+.text-muted{
+    margin: 0 100px 0 100px;
+}
+.btn-warning{
+    margin-right:450px; 
+}
+.lorem{
+    margin-top: 50px;
+}
+span.text-muted{
+    position: absolute;
+    left: -90px;
+}
+.card{
+    margin-top:20px; 
+}
+.row{
+    margin-top:50px; 
+}
+footer{
+    padding: 20px;
+    margin-top: 20px;
+}
+.fotter{
+    float: left;
+}
+.sidenav {
+    height: 100%;
+    width: 0;
+    position: fixed;
+        overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+} 
